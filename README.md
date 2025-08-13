@@ -22,6 +22,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 ## Hình ảnh sản phẩm
 
 ![MKE_M01](/image/MKE_M01_1.jpg)
+<p align="center">
+<img src="./image/MKE_M01_1.jpg" alt="alters" width="300" height="300">
+</p>
 
 ![MKE_M01](/image/MKE_M01_2.jpg)
 
