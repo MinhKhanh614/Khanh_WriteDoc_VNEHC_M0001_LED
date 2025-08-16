@@ -1,3 +1,14 @@
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p><strong>Mạch LED đơn MKE-M01</strong> là module sử dụng LED 10mm, phù hợp cho các mô hình xe, trang trí,...</p>
+  </div>
+  <div>
+    <img src="./image/MKE_M01_1.jpg" alt="Mạch LED MKE-M01" width="200">
+  </div>
+</div>
+
+
 # Mạch led đơn MKE-M01 10mm single LED module
 
 ## Giới thiệu
@@ -5,6 +16,7 @@
 Mạch led đơn MKE-M01 10mm single LED module sử dụng loại LED kích thước lớn 10mm giúp bạn dễ dàng ứng dụng trong các mô hình xe, trang trí,..., mạch gồm có 4 phiên bản với các màu sắc: Trắng, Xanh lá, Vàng, Đỏ.
 
 Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần cứng Robotics MakerEdu** nên có thể sử dụng trực tiếp an toàn với các mạch điều khiển trung tâm ở cả hai mức điện áp 3.3VDC và 5VDC như: Arduino, Raspberry Pi, Jetson Nano, Micro:bit,....với chuẩn kết nối Connector XH2.54 thông dụng.
+## Tính năng
 
 ## Thông số kỹ thuật
 
@@ -70,6 +82,10 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
   </tr>
 </tbody>
 </table>
+
+| Hình ảnh                         | Kích thước                       | Mô tả                            |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![MKE_M01](/image/MKE_M01_1.jpg) | ![MKE_M01](/image/MKE_M01_3.jpg) | ![MKE_M01](/image/MKE_M01_2.jpg) |
 
 ## Hướng dẫn sử dụng
 
