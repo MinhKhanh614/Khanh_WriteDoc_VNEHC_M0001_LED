@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p><strong>Mạch LED đơn MKE-M01</strong> là module sử dụng LED 10mm, phù hợp cho các mô hình xe, trang trí,...</p>
@@ -91,6 +92,18 @@
     </td>
   </tr>
 </table>
+
+<section>
+  <h2>Mạch LED đơn MKE-M01</h2>
+  <p>Module sử dụng LED 10mm, có 4 màu: Trắng, Xanh Lá, Vàng, Đỏ.</p>
+</section>
+
+<aside>
+  <img src="https://github.com/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/MKE_M01_1.jpg?raw=true" width="180" alt="MKE-M01">
+</aside>
+
+
+</html>
 
 
 # Mạch led đơn MKE-M01 10mm single LED module
