@@ -61,6 +61,38 @@
 </table>
 </div>
 
+<table>
+  <tr>
+    <td>
+      <p><strong>Mạch LED đơn MKE-M01</strong><br>
+      Sử dụng LED 10mm, có 4 màu: Trắng, Xanh Lá, Vàng, Đỏ.<br>
+      Tương thích với Arduino, Raspberry Pi, Micro:bit,...</p>
+    </td>
+    <td>
+      <img src="https://github.com/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/MKE_M01_1.jpg?raw=true" width="180">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><strong>Phiên bản màu Xanh Lá</strong><br>
+      LED màu xanh lá, phù hợp cho hiệu ứng cây cối hoặc đèn báo.</p>
+    </td>
+    <td>
+      <img src="https://github.com/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/MKE_M01_2.jpg?raw=true" width="180">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><strong>Phiên bản màu Vàng</strong><br>
+      LED màu vàng, tạo cảm giác ấm áp, dùng cho mô hình đèn đường.</p>
+    </td>
+    <td>
+      <img src="https://github.com/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/MKE_M01_3.jpg?raw=true" width="180">
+    </td>
+  </tr>
+</table>
+
+
 # Mạch led đơn MKE-M01 10mm single LED module
 
 ## Giới thiệu
