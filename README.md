@@ -3,7 +3,7 @@
   <div style="flex: 1;">
     <p><strong>Mạch LED đơn MKE-M01</strong> là module sử dụng LED 10mm, phù hợp cho các mô hình xe, trang trí,...</p>
   </div>
-  <div>
+  <div align = "right">
     <img src="./image/MKE_M01_1.jpg" alt="Mạch LED MKE-M01" width="200">
   </div>
 </div>
