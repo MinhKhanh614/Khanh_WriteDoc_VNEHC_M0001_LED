@@ -8,6 +8,7 @@
   </div>
 </div>
 
+<div>
 <table>
   <tr>
     <td style="width:70%; vertical-align:top;">
@@ -18,7 +19,9 @@
     </td>
   </tr>
 </table>
+</div>
 
+<div>
 <table style="border: none;">
   <tr>
     <td style="border: none; width: 70%; vertical-align: top;">
@@ -29,7 +32,9 @@
     </td>
   </tr>
 </table>
+</div>
 
+<div>
 <table>
   <tr>
     <td>
@@ -40,7 +45,21 @@
     </td>
   </tr>
 </table>
+</div>
 
+<div>
+<table>
+  <tr>
+    <td rowspan="2" style="vertical-align: top;">
+      <img src="https://github.com/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/MKE_M01_1.jpg?raw=true" width="180">
+    </td>
+    <td><strong>Mạch LED đơn MKE-M01</strong></td>
+  </tr>
+  <tr>
+    <td>Module sử dụng LED 10mm, phù hợp cho các mô hình xe, trang trí,...</td>
+  </tr>
+</table>
+</div>
 
 # Mạch led đơn MKE-M01 10mm single LED module
 
