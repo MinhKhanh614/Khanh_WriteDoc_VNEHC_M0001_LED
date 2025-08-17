@@ -121,7 +121,8 @@
 > Advises about risks or negative outcomes of certain actions.
 
 ```stl
-solid cube_corner
+solid MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH
+
   facet normal -0.0 0.0 1.0
     outer loop
       vertex 0.38100001215934753 -0.38100001215934753 11.051000595092773
@@ -2642,7 +2643,8 @@ solid cube_corner
       vertex -0.11429999768733978 0.11429999768733978 -12.1899995803833
     endloop
   endfacet
-endsolid
+endsolid MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH
+
 ```
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
 
