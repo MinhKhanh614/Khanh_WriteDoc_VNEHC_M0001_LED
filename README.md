@@ -2646,12 +2646,12 @@ solid MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH
 endsolid MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH
 
 ```
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+<img id="vs_img" src="https://www.viewstl.com/?embedded" style="border:0;margin:0;width:100%;height:100%;"></img>
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=.%2Fimage%2FaNgoc_arduinoHeader1pin.stl&local" style="border:0;margin:0;width:100%;height:100%;"></iframe>
+<img id="vs_img" src="https://www.viewstl.com/?embedded&url=.%2Fimage%2FaNgoc_arduinoHeader1pin.stl&local" style="border:0;margin:0;width:100%;height:100%;"></img>
 
 <div style="position: relative; width: 100%; padding-top: calc(max(56.25%, 400px));">
-  <iframe src="https://app.cirkitdesigner.com/project/b21f6f71-da6a-4daf-90d8-d4de496acd92?view=interactive_preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+  <img src="https://app.cirkitdesigner.com/project/b21f6f71-da6a-4daf-90d8-d4de496acd92?view=interactive_preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></img>
 </div>
 <!--Please include the following link, which help us continue to improve and support the embed, making it a valuable tool for your audience.--> <p style= "margin-top: 5px;" >Edit this project interactively in <a href="https://app.cirkitdesigner.com/project/b21f6f71-da6a-4daf-90d8-d4de496acd92" target = "_blank">Cirkit Designer</a>.</p>
 
