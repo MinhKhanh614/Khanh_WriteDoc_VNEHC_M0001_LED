@@ -2655,7 +2655,8 @@ endsolid MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-MESH-M
 </div>
 <!--Please include the following link, which help us continue to improve and support the embed, making it a valuable tool for your audience.--> <p style= "margin-top: 5px;" >Edit this project interactively in <a href="https://app.cirkitdesigner.com/project/b21f6f71-da6a-4daf-90d8-d4de496acd92" target = "_blank">Cirkit Designer</a>.</p>
 
-<script src="https://embed.github.com/view/3d/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/aNgoc_arduinoHeader1pin.stl"></script>
+<script src="https://embed.github.com/view/3d/MinhKhanh614/Khanh_WriteDoc_VNEHC_M0001_LED/blob/update-docs-v1/image/aNgoc_arduinoHeader1pin.stl">
+</script>
 
 
 
