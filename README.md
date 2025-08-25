@@ -33,47 +33,48 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 ![MKE_M01](/image/MKE_M01_2.jpg)
 
-<table style="border-collapse: collapse; width: 100%; margin-bottom: 20px;">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 40%; border: 1px solid #ccc; padding: 6px;">MKE-M01</th>
-      <th style="width: 60%; border: 1px solid #ccc; padding: 6px;">Ghi chú</th>
+      <th width="40%">MKE-M01</th>
+      <th width="60%">Ghi chú</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 6px;">GND</td>
-      <td style="border: 1px solid #ccc; padding: 6px;">Chân cấp nguồn âm 0VDC</td>
+      <td>GND</td>
+      <td>Chân cấp nguồn âm 0VDC</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 6px;">5V</td>
-      <td style="border: 1px solid #ccc; padding: 6px;">Chân cấp nguồn dương 5VDC</td>
+      <td>5V</td>
+      <td>Chân cấp nguồn dương 5VDC</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 6px;">SIG</td>
-      <td style="border: 1px solid #ccc; padding: 6px;">Chân tín hiệu Digital In</td>
+      <td>SIG</td>
+      <td>Chân tín hiệu Digital In</td>
     </tr>
   </tbody>
 </table>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 40%; border: 1px solid #ccc; padding: 6px;">SIG (Digital In)</th>
-      <th style="width: 60%; border: 1px solid #ccc; padding: 6px;">Trạng thái</th>
+      <th width="40%">SIG (Digital In)</th>
+      <th width="60%">Trạng thái</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 6px;">TTL HIGH</td>
-      <td style="border: 1px solid #ccc; padding: 6px;">Hoạt động (On)</td>
+      <td>TTL HIGH</td>
+      <td>Hoạt động (On)</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ccc; padding: 6px;">TTL LOW</td>
-      <td style="border: 1px solid #ccc; padding: 6px;">Không hoạt động (Off)</td>
+      <td>TTL LOW</td>
+      <td>Không hoạt động (Off)</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Hướng dẫn sử dụng
