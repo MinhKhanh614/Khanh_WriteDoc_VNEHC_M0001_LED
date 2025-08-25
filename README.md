@@ -33,48 +33,14 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 ![MKE_M01](/image/MKE_M01_2.jpg)
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">MKE-M01</th>
-      <th width="70%">Ghi chú</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>GND</td>
-      <td>Chân cấp nguồn âm 0VDC</td>
-    </tr>
-    <tr>
-      <td>5V</td>
-      <td>Chân cấp nguồn dương 5VDC</td>
-    </tr>
-    <tr>
-      <td>SIG</td>
-      <td>Chân tín hiệu Digital In</td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">SIG (Digital In)</th>
-      <th width="70%">Trạng thái</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TTL HIGH</td>
-      <td>Hoạt động (On)</td>
-    </tr>
-    <tr>
-      <td>TTL LOW</td>
-      <td>Không hoạt động (Off)</td>
-    </tr>
-  </tbody>
-</table>
-
+| MKE-M01          | Ghi chú                   |     |     |
+| ---------------- | ------------------------- | --- | --- |
+| GND              | Chân cấp nguồn âm 0VDC    |     |     |
+| 5V               | Chân cấp nguồn dương 5VDC |     |     |
+| SIG              | Chân tín hiệu Digital In  |     |     |
+| SIG (Digital In) | Trạng thái                |     |     |
+| TTL HIGH         | Hoạt động (On)            |     |     |
+| TTL LOW          | Không hoạt động (Off)     |     |     |
 
 
 ## Hướng dẫn sử dụng
