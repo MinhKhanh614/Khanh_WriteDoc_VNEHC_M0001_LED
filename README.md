@@ -33,7 +33,7 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 ![MKE_M01](/image/MKE_M01_2.jpg)
 
-<table width="200%">
+<table width="100%">
   <thead>
     <tr>
       <th width="30%">MKE-M01</th>
@@ -56,7 +56,7 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
   </tbody>
 </table>
 
-<table width="200%">
+<table width="100%">
   <thead>
     <tr>
       <th width="30%">SIG (Digital In)</th>
