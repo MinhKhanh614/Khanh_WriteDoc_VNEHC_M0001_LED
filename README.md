@@ -33,15 +33,15 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 ![MKE_M01](/image/MKE_M01_2.jpg)
 
-| MKE-M01          | Ghi chú                   |     |     |
-| ---------------- | ------------------------- | --- | --- |
-| GND              | Chân cấp nguồn âm 0VDC    |     |     |
-| 5V               | Chân cấp nguồn dương 5VDC |     |     |
-| SIG              | Chân tín hiệu Digital In  |     |     |
-| SIG (Digital In) | Trạng thái                |     |     |
-| TTL HIGH         | Hoạt động (On)            |     |     |
-| TTL LOW          | Không hoạt động (Off)     |     |     |
-
+| MKE-M01          | Ghi chú                   |
+| ---------------- | ------------------------- |
+| GND              | Chân cấp nguồn âm 0VDC    |
+| 5V               | Chân cấp nguồn dương 5VDC |
+| SIG              | Chân tín hiệu Digital In  |
+|                  |                           |
+| SIG (Digital In) | Trạng thái                |
+| TTL HIGH         | Hoạt động (On)            |
+| TTL LOW          | Không hoạt động (Off)     |
 
 ## Hướng dẫn sử dụng
 
