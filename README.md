@@ -50,19 +50,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 #### Arduino
 
-- [Mạch Vietduino Uno (Arduino Uno Compatible)](https://www.makerlab.vn/vuno)
-- [Mạch MakerEdu Shield for Vietduino](https://www.makerlab.vn/vietduinosd)
-- [Mạch led đơn MKE-M01 10mm single LED module](https://www.makerlab.vn/mkem01)
-- [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
-![](/image/vuno.png)
-![](/image/mke_3pin_xh2.54.png) 
-![](/image/mke_4pin_xh2.54.png)
-![](/image/MKE_M01_1.jpg)
-![](/image/lcd1.jpg)
-
-| 3 pin connector                  | 4 pin connector                 |  [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07) | [Mạch Vietduino Uno (Arduino Uno Compatible)](https://www.makerlab.vn/vuno) | [Mạch led đơn MKE-M01 10mm single LED module](https://www.makerlab.vn/mkem01) |
-| -------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![](/image/mke_3pin_xh2.54.png)  | ![](/image/mke_4pin_xh2.54.png) | ![](/image/lcd1.jpg)                                                                | ![](/image/vuno.png)                                                        | ![](/image/MKE_M01_1.jpg)                                                     |
+| Connector 3P XH2.54              | Connector 4P XH2.54             |  [MKE-M07 LCD 1602](https://www.makerlab.vn/mkem07) | [Vietduino UNO](https://www.makerlab.vn/vuno) | [MKE-M01 LED](https://www.makerlab.vn/mkem01) |
+| -------------------------------- | ------------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| ![](/image/mke_3pin_xh2.54.png)  | ![](/image/mke_4pin_xh2.54.png) | ![](/image/lcd1.jpg)                                | ![](/image/vuno.png)                          | ![](/image/MKE_M01_1.jpg)                     |
 
 #### mBlock
 
