@@ -54,18 +54,17 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 | -------------------------------- | ------------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 | ![](/image/mke_3pin_xh2.54.png)  | ![](/image/mke_4pin_xh2.54.png) | ![](/image/lcd1.jpg)                                | ![](/image/vuno.png)                          | ![](/image/MKE_M01_1.jpg)                     |
 
-#### mBlock
+#### microBlocks
 
-- [Mạch MakerEdu Creator (Arduino Uno Compatible)](https://www.makerlab.vn/creator)
-- [Mạch led đơn MKE-M01 10mm single LED module](https://www.makerlab.vn/mkem01)
-- [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
+| Connector 3P XH2.54              | Connector 4P XH2.54             |  [MKE-M07 LCD 1602](https://www.makerlab.vn/mkem07) | ESP32-S3                | [MKE-M01 LED](https://www.makerlab.vn/mkem01) |
+| -------------------------------- | ------------------------------- | --------------------------------------------------- | ----------------------- | --------------------------------------------- |
+| ![](/image/mke_3pin_xh2.54.png)  | ![](/image/mke_4pin_xh2.54.png) | ![](/image/lcd1.jpg)                                | ![](/image/esp32s3.png) | ![](/image/MKE_M01_1.jpg)                     |
 
-#### Micro:bit:
+#### Micro:bit
 
-- [Mạch Micro:bit V2](https://hshop.vn/products/kit-hoc-lap-trinh-stem-cho-tre-em-micro-bit-v2) hoặc các phiên bản tương thích.
-- [Mạch MakerEdu Shield for Micro:bit](https://www.makerlab.vn/microbitsd)
-- [Mạch led đơn MKE-M01 10mm single LED module](https://www.makerlab.vn/mkem01)
-- [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
+| LCD 1602                | Connector 4P XH2.54     | Connector 3P XH2.54     | micro:bit MKE Shield    | micro:bit v2            | LED                     |
+| ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| ![](/image/lcd1.jpg) | ![](/image/lcd1.jpg) | ![](/image/lcd1.jpg) | ![](/image/lcd1.jpg) | ![](/image/lcd1.jpg) | ![](/image/lcd1.jpg) |
 
 ### Hướng dẫn sử dụng với Arduino (Code C)
   
