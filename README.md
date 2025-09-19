@@ -84,7 +84,7 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
       <tr>
             <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
             <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
-            <td align="center" valign="middle"><a href="https://www.makerlab.vn/mkem07">MKE-M07 LCD 1602</a><br/><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="2300"/></td>
       </tr>
       <tr>
             <td align="center">Connector 3P XH2.54</td>
