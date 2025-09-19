@@ -72,7 +72,7 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
       <tr>
             <td align="center">MKE-M0001 LED</td>
             <td align="center">MKE-M0007 LCD 1602</td>
-            <td align="center">MKE-TXXXX Vietduino UNO Breakout shield</td>
+            <td align="center">MKE-TXXXX VUNO Breakout shield</td>
       </tr>
 </table>
 
