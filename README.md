@@ -77,20 +77,60 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 
 #### microBlocks
 
-| Connector 3P XH2.54              | Connector 4P XH2.54             |  [MKE-M07 LCD 1602](https://www.makerlab.vn/mkem07) | 
-|---|---|---|
-| ![](/image/mke_3pin_xh2.54.png)  | ![](/image/mke_4pin_xh2.54.png) | ![](/image/lcd1.jpg)                                | 
-ESP32-S3                | [MKE-M01 LED](https://www.makerlab.vn/mkem01) | |
-![](/image/esp32s3.png) | ![](/image/MKE_M01_1.jpg)                     | |
+<table>
+      <col width="33%" />
+      <col width="33%" />
+      <col width="33%" />
+      <tr>
+            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><a href="https://www.makerlab.vn/mkem07">MKE-M07 LCD 1602</a><br/><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="2300"/></td>
+      </tr>
+      <tr>
+            <td align="center">Connector 3P XH2.54</td>
+            <td align="center">Connector 4P XH2.54</td>
+            <td align="center">MKE-M07 LCD 1602</td>
+      </tr>
+      <tr>
+            <td align="center" valign="middle"><img src="/image/esp32s3.png" alt="ESP32-S3" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="2300"/></td>
+            <td align="center"></td>
+      </tr>
+      <tr>
+            <td align="center">ESP32-S3</td>
+            <td align="center"><a href="https://www.makerlab.vn/mkem01">MKE-M01 LED</a></td>
+            <td align="center"></td>
+      </tr>
+</table>
 
 
 #### Micro:bit
 
-| LCD 1602             | Connector 4P XH2.54      | Connector 3P XH2.54      | 
-| -------------------- | ------------------------ | ------------------------ |
-| ![](/image/lcd1.jpg) | ![](/image/mke_4pin_xh2.54.png) | ![](/image/mke_3pin_xh2.54.png) |
-| micro:bit MKE Shield                | micro:bit v2               | LED                       |
-![](/image/microbit_mke_shield.png) | ![](/image/microbit_v2.png) | ![](/image/MKE_M01_1.jpg) |
+<table>
+      <col width="33%" />
+      <col width="33%" />
+      <col width="33%" />
+      <tr>
+            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="LCD 1602" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
+      </tr>
+      <tr>
+            <td align="center">LCD 1602</td>
+            <td align="center">Connector 4P XH2.54</td>
+            <td align="center">Connector 3P XH2.54</td>
+      </tr>
+      <tr>
+            <td align="center" valign="middle"><img src="/image/microbit_mke_shield.png" alt="micro:bit MKE Shield" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/microbit_v2.png" alt="micro:bit v2" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="2300"/></td>
+      </tr>
+      <tr>
+            <td align="center">micro:bit MKE Shield</td>
+            <td align="center">micro:bit v2</td>
+            <td align="center">LED</td>
+      </tr>
+</table>
 
 ### Hướng dẫn sử dụng với Arduino (Code C)
   
