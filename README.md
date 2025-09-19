@@ -141,7 +141,7 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 #### Kết quả
 
 
-#### Micro:bit
+### Micro:bit
 
 
 #### Chuẩn bị phần cứng
