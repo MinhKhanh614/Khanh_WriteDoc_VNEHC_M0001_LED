@@ -55,9 +55,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
       <col width="33%" />
       <col width="33%" />
       <tr>
-            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/vuno.png" alt="Vietduino UNO" width="240"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/vuno.png" alt="Vietduino UNO" width="2300"/></td>
       </tr>
       <tr>
             <td align="center">Connector 3P XH2.54</td>
@@ -65,8 +65,8 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
             <td align="center">Vietduino UNO</td>
       </tr>
       <tr>
-            <td align="center"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01" width="240"/></td>
-            <td align="center"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="240"/></td>
+            <td align="center"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01" width="2300"/></td>
+            <td align="center"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="2300"/></td>
             <td align="center"></td>
       </tr>
       <tr>
@@ -83,9 +83,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
       <col width="33%" />
       <col width="33%" />
       <tr>
-            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="240"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" width="2300"/></td>
       </tr>
       <tr>
             <td align="center">Connector 3P XH2.54</td>
@@ -93,8 +93,8 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
             <td align="center">MKE-M07 LCD 1602</td>
       </tr>
       <tr>
-            <td align="center" valign="middle"><img src="/image/esp32s3.png" alt="ESP32-S3" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="240"/></td>
+            <td align="center" valign="middle"><img src="/image/esp32s3.png" alt="ESP32-S3" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="2300"/></td>
             <td align="center"></td>
       </tr>
       <tr>
@@ -112,9 +112,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
       <col width="33%" />
       <col width="33%" />
       <tr>
-            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="LCD 1602" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="240"/></td>
+            <td align="center" valign="middle"><img src="/image/lcd1.jpg" alt="LCD 1602" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" width="2300"/></td>
       </tr>
       <tr>
             <td align="center">LCD 1602</td>
@@ -122,9 +122,9 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
             <td align="center">Connector 3P XH2.54</td>
       </tr>
       <tr>
-            <td align="center" valign="middle"><img src="/image/microbit_mke_shield.png" alt="micro:bit MKE Shield" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/microbit_v2.png" alt="micro:bit v2" width="240"/></td>
-            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="240"/></td>
+            <td align="center" valign="middle"><img src="/image/microbit_mke_shield.png" alt="micro:bit MKE Shield" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/microbit_v2.png" alt="micro:bit v2" width="2300"/></td>
+            <td align="center" valign="middle"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01 LED" width="2300"/></td>
       </tr>
       <tr>
             <td align="center">micro:bit MKE Shield</td>
