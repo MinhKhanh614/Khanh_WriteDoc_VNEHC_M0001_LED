@@ -49,12 +49,31 @@ Mạch led đơn MKE-M01 10mm single LED module thuộc **hệ sinh thái phần
 ### Các thiết bị sử dụng trong bài hướng dẫn
 
 #### Arduino
-
-| ![](/image/mke_3pin_xh2.54.png) | ![](/image/mke_4pin_xh2.54.png)      | ![](/image/vuno.png)                    |
-|---------------------------------|--------------------------------------|-----------------------------------------|
-| Connector 3P XH2.54             | Connector 4P XH2.54                  | Vietduino UNO                           |
-| ![](/image/MKE_M01_1.jpg)       | ![MKE-M07 LCD 1602](/image/lcd1.jpg) |                                         |
-| MKE-M0001 LED                   | MKE-M0007 LCD 1602                   | MKE-TXXXX Vietduino UNO Breakout shield |
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+      <col style="width:33%;" />
+      <col style="width:33%;" />
+      <col style="width:33%;" />
+      <tr>
+            <td style="text-align:center; vertical-align:middle; padding:6px;"><img src="/image/mke_3pin_xh2.54.png" alt="Connector 3P XH2.54" style="max-width:100%; height:auto;"/></td>
+            <td style="text-align:center; vertical-align:middle; padding:6px;"><img src="/image/mke_4pin_xh2.54.png" alt="Connector 4P XH2.54" style="max-width:100%; height:auto;"/></td>
+            <td style="text-align:center; vertical-align:middle; padding:6px;"><img src="/image/vuno.png" alt="Vietduino UNO" style="max-width:100%; height:auto;"/></td>
+      </tr>
+      <tr>
+            <td style="text-align:center; padding:6px;">Connector 3P XH2.54</td>
+            <td style="text-align:center; padding:6px;">Connector 4P XH2.54</td>
+            <td style="text-align:center; padding:6px;">Vietduino UNO</td>
+      </tr>
+      <tr>
+            <td style="text-align:center; padding:6px;"><img src="/image/MKE_M01_1.jpg" alt="MKE-M01" style="max-width:100%; height:auto;"/></td>
+            <td style="text-align:center; padding:6px;"><img src="/image/lcd1.jpg" alt="MKE-M07 LCD 1602" style="max-width:100%; height:auto;"/></td>
+            <td style="text-align:center; padding:6px;"></td>
+      </tr>
+      <tr>
+            <td style="text-align:center; padding:6px;">MKE-M0001 LED</td>
+            <td style="text-align:center; padding:6px;">MKE-M0007 LCD 1602</td>
+            <td style="text-align:center; padding:6px;">MKE-TXXXX Vietduino UNO Breakout shield</td>
+      </tr>
+</table>
 
 #### microBlocks
 
